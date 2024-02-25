@@ -1,5 +1,5 @@
 GO_BIN=go
-EXEC_NAME=go-template
+EXEC_NAME=escapepod
 
 .PHONY: xxx
 xxx:

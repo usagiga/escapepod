@@ -1,8 +1,8 @@
 # Docker
 
-We can use Docker & Compose to set it up that developing environment for ${REPO_NAME}.
+We can use Docker & Compose to set it up that developing environment for escapepod.
 
-## Run ${REPO_NAME} on Docker Compose
+## Run escapepod on Docker Compose
 
 Run it,
 
@@ -12,7 +12,7 @@ $ docker compose up
 
 then Docker Compose do this:
 
-- Run ${REPO_NAME}
+- Run escapepod
 - Run `go test`
 
 ### Features

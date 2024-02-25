@@ -1,12 +1,11 @@
-# ${REPO_NAME}
+# escapepod
 
-${REPO_DESC}
-
+🚀 CLI Tools for Import / Export Wiki
 
 ## Installation
 
 ```sh
-$ go install github.com/usagiga/${REPO_NAME}@latest
+$ go install github.com/usagiga/escapepod@latest
 ```
 
 And you can use Docker Compose.
@@ -15,6 +14,7 @@ See also [docs](docs/developers/docker.md).
 
 ## Usage
 
+TBU
 
 
 ## Dependencies
