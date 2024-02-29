@@ -2,7 +2,10 @@ module github.com/usagiga/escapepod
 
 go 1.22
 
-require github.com/cockroachdb/errors v1.11.1
+require (
+	github.com/cockroachdb/errors v1.11.1
+	github.com/michimani/go-esa v1.1.0
+)
 
 require (
 	github.com/cockroachdb/logtags v0.0.0-20230118201751-21c54148d20b // indirect
